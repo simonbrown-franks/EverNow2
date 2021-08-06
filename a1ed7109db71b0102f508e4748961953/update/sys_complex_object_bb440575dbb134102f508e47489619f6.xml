@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf744057568b134103938bb78ae69e5f6</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>a1ed7109db71b0102f508e4748961953</scope_name>
+        <serialized_content>{"FlowDesigner:FDf744057568b134103938bb78ae69e5f6":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDf744057568b134103938bb78ae69e5f6.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Race Array\",\"mandatory\":\"false\",\"child_name\":\"Race Array_child0\",\"uiUniqueId\":\"6aae934f-e681-4e5f-a97d-cbc8b56b17f6\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDf744057568b134103938bb78ae69e5f6\",\"child_label\":\"Race Array_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"e19e7cd3-27d3-4b7f-ba56-8b15d0f2c0db\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 14:49:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb440575dbb134102f508e47489619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf744057568b134103938bb78ae69e5f6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EverNow2_spoke" source="x_260106_evernow2">a1ed7109db71b0102f508e4748961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EverNow2_spoke">a1ed7109db71b0102f508e4748961953</sys_scope>
+        <sys_update_name>sys_complex_object_bb440575dbb134102f508e47489619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 14:49:37</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
